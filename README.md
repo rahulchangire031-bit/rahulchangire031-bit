@@ -106,18 +106,17 @@
 
 # 🚀 What I Build
 
-🤖 **AI Applications**  
-→ Intelligent systems using ML, Deep Learning & Generative AI.
+### 🎓 Digital Classroom Platform
 
-🌐 **Full Stack Applications**  
-→ Scalable web applications with modern technologies.
+**A React and PHP-based digital learning platform designed to enhance online education and simplify classroom management.**
 
-⚛️ **React Projects**  
-→ Responsive and user-friendly interfaces.
+- Developed an interactive **digital classroom website** using **React.js** for a responsive and user-friendly frontend.
+- Implemented **PHP-based backend functionality** with database integration for managing users, courses, learning materials, and assignments.
+- Created a centralized platform where **students and teachers can access resources, manage academic activities, and communicate effectively**.
+- Focused on delivering a smooth, efficient, and scalable **online learning experience** using modern web technologies.
 
-🐍 **Python Solutions**  
-→ Automation, AI models, and data-driven applications.
-
+**Technologies Used:**  
+⚛️ React.js | 🐘 PHP | 🗄️ MySQL | 🌐 HTML | 🎨 CSS | JavaScript
 ---
 
 # 🌱 Currently Learning
