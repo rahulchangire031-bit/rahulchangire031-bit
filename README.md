@@ -142,13 +142,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
+<a href="https://www.linkedin.com/in/rahul-changire-645552311/">
+<img src="https://img.shields.io/badge/LinkedIn-Rahul%20Changire-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=default&hide_border=true"/>
-
+<a href="https://github.com/rahulchangire031-bit">
+<img src="https://img.shields.io/badge/GitHub-Rahul%20Changire-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
-
 ---
 
 # 🤝 Connect With Me
@@ -156,13 +157,17 @@
 <p align="center">
 
 <a href="https://github.com/rahulchangire031-bit">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/rahul-changire-645552311/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+</p>
+
+<p align="center">
+<b>Let's connect and build innovative AI-powered solutions together 🚀</b>
 </p>
 
 ---
