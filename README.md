@@ -106,17 +106,17 @@
 
 # 🚀 What I Build
 
-### 🎓 Digital Classroom Platform
+<div align="center">
 
-**A React and PHP-based digital learning platform designed to enhance online education and simplify classroom management.**
+## 🎓 Digital Classroom Platform
 
-- Developed an interactive **digital classroom website** using **React.js** for a responsive and user-friendly frontend.
-- Implemented **PHP-based backend functionality** with database integration for managing users, courses, learning materials, and assignments.
-- Created a centralized platform where **students and teachers can access resources, manage academic activities, and communicate effectively**.
-- Focused on delivering a smooth, efficient, and scalable **online learning experience** using modern web technologies.
+**A React + PHP-based online learning platform that provides students and teachers with a centralized space for courses, resources, assignments, and communication.**
 
-**Technologies Used:**  
-⚛️ React.js | 🐘 PHP | 🗄️ MySQL | 🌐 HTML | 🎨 CSS | JavaScript
+**🛠️ Technology Used**
+
+⚛️ React.js | 🐘 PHP | 🗄️ MySQL | 🌐 HTML5 | 🎨 CSS3 | JavaScript
+
+</div>
 ---
 
 # 🌱 Currently Learning
