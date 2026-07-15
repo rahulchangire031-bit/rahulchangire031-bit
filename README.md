@@ -123,21 +123,19 @@
 <tr>
 <td width="500">
 
-## 📰 AI News Summarizer
+### 📰 AI News Summarizer
 
-An **AI-powered news summarization system** that extracts key information from lengthy articles and generates concise summaries using **Natural Language Processing (NLP)** techniques.
+**An AI-powered news summarization system that generates concise summaries from lengthy news articles using Natural Language Processing (NLP).**
 
-The system analyzes news content, identifies important points, and provides users with quick, meaningful, and efficient news updates.
+- Developed an intelligent system using **Python** to automatically extract important information from news articles.
+- Implemented **NLP techniques** to analyze text, identify key points, and generate meaningful summaries.
+- Integrated **Hugging Face models and AI libraries** to improve text processing and summarization performance.
+- Added **web scraping functionality** to collect and process real-time news content efficiently.
 
-**Tech Stack:**  
-🐍 Python • 🤗 Hugging Face • NLP • Web Scraping • Machine Learning • AI Libraries
+**Technologies Used:**  
+🐍 Python | 🤗 Hugging Face | 🧠 NLP | 🌐 Web Scraping | Machine Learning | AI Libraries
 
-</td>
-</tr>
-</table>
-
-</div>
-
+---
 
 # 🌱 Currently Learning
 
@@ -149,7 +147,7 @@ The system analyzes news content, identifies important points, and provides user
 - **System Design**
 - **Advanced Backend Development**
 
-
+---
 
 # 📊 GitHub Stats
 
@@ -163,7 +161,7 @@ The system analyzes news content, identifies important points, and provides user
 </a>
 </p>
 
-
+---
 # 🤝 Connect With Me
 
 <p align="center">
@@ -182,7 +180,7 @@ The system analyzes news content, identifies important points, and provides user
 <b>Let's connect and build innovative AI-powered solutions together 🚀</b>
 </p>
 
-
+---
 
 # 💡 Quote
 
