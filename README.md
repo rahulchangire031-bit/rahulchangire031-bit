@@ -117,7 +117,27 @@
 ⚛️ React.js | 🐘 PHP | 🗄️ MySQL | 🌐 HTML5 | 🎨 CSS3 | JavaScript
 
 </div>
----
+<div align="center">
+
+<table>
+<tr>
+<td width="500">
+
+## 📰 AI News Summarizer
+
+An **AI-powered news summarization system** that extracts key information from lengthy articles and generates concise summaries using **Natural Language Processing (NLP)** techniques.
+
+The system analyzes news content, identifies important points, and provides users with quick, meaningful, and efficient news updates.
+
+**Tech Stack:**  
+🐍 Python • 🤗 Hugging Face • NLP • Web Scraping • Machine Learning • AI Libraries
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 # 🌱 Currently Learning
 
@@ -129,7 +149,7 @@
 - **System Design**
 - **Advanced Backend Development**
 
----
+
 
 # 📊 GitHub Stats
 
@@ -142,7 +162,7 @@
 <img src="https://img.shields.io/badge/GitHub-Rahul%20Changire-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
----
+
 
 # 🤝 Connect With Me
 
@@ -162,7 +182,7 @@
 <b>Let's connect and build innovative AI-powered solutions together 🚀</b>
 </p>
 
----
+
 
 # 💡 Quote
 
