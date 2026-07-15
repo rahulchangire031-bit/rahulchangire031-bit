@@ -82,22 +82,15 @@
 
 - **Machine Learning**
 - **Deep Learning**
-- **Neural Networks**
 - **Generative AI**
 - **Large Language Models (LLMs)**
 - **Natural Language Processing (NLP)**
-- **Computer Vision**
-- **AI Agents**
-- **Prompt Engineering**
 - **RAG (Retrieval Augmented Generation)**
 - **LangChain**
-- **OpenAI APIs**
-- **Hugging Face**
 - **TensorFlow**
 - **PyTorch**
 - **Scikit-Learn**
 - **OpenCV**
-- **Pandas & NumPy**
 
 ---
 
