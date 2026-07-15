@@ -5,160 +5,195 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Software+Solutions;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulchangire031-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/rahulchangire031-bit?label=Followers&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/rahulchangire031-bit?label=Stars&style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=rahulchangire031-bit&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Third-Year B.Tech Student at **Tatyasaheb Kore Institute of Engineering and Technology, Kolhapur**
+🎓 I am a **third-year B.Tech student** at **Tatyasaheb Kore Institute of Engineering and Technology, Kolhapur**.
 
-💻 Passionate about building modern web applications and AI-powered solutions.
+💻 I am an aspiring **Full Stack Developer, AI Developer, and Frontend Developer** passionate about building innovative and impactful software solutions.
 
-🚀 Aspiring **AI Developer**, **Full Stack Developer**, and **Frontend Developer**.
+🚀 I enjoy transforming ideas into real-world applications using modern technologies, clean code, and efficient problem-solving approaches.
 
-🌱 Currently improving my skills in **Artificial Intelligence, Machine Learning, System Design, and Full Stack Development.**
+🤖 My interests include **Artificial Intelligence, Machine Learning, Web Development, and Software Engineering**.
 
-💡 I enjoy solving real-world problems using clean, scalable, and efficient software.
+🌱 I am continuously improving my programming skills, exploring new technologies, and working on projects that help me grow as a developer.
 
-🤝 Open to **Internships**, **Open Source Contributions**, and **Collaborative Projects**.
+💡 I believe in:
+- Writing clean and efficient code
+- Continuous learning
+- Building meaningful technology solutions
+- Collaborating with developers and communities
 
-📍 **Location:** Kolhapur, Maharashtra, India
+📍 Location: Kolhapur, Maharashtra, India
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Technical Skills
 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
 </p>
 
-## 🎨 Frontend
+- Java
+- Python
+- JavaScript
+- C++
+
+---
+
+## 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-## ⚙️ Backend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+
+---
+
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Database
+- Node.js
+- Express.js
+- REST API Development
+
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🤖 AI / Machine Learning
+- MongoDB
+- MySQL
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-## 🛠 Tools
+- Python
+- TensorFlow
+- Scikit-learn
+- OpenCV
+
+---
+
+## 🧰 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 🚀 Projects
+
+Here are some areas I love building projects in:
+
+### 🤖 AI Applications
+Building intelligent solutions using Artificial Intelligence and Machine Learning.
+
+### 🌐 Full Stack Web Applications
+Creating complete web solutions with modern frontend and backend technologies.
+
+### ⚛️ React Applications
+Developing responsive and user-friendly interfaces.
+
+### 🐍 Python Projects
+Building automation tools, data-driven applications, and AI solutions.
+
+*(Add your project links here as you complete them.)*
+
 ---
 
 # 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚛️ Advanced React
-- ☁️ Cloud Computing
-- 🏗️ System Design
-- 📚 Data Structures & Algorithms
+- Advanced React.js
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Backend Development
+- System Design
+- Cloud Technologies
 
 ---
 
 # 🎯 Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Web Development
-- Frontend Development
-- Problem Solving
-- Competitive Programming
-- Networking
-- Open Source
-- Software Engineering
+- 💻 Coding
+- 🧩 Problem Solving
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Web Development
+- 🚀 Software Development
+- 🤝 Networking
+- 📚 Skill Development
+- 🌱 Learning New Technologies
+
+---
+
+# 💼 Career Goals
+
+I am looking for opportunities where I can:
+
+- Apply my technical skills
+- Work on real-world projects
+- Collaborate with talented developers
+- Improve my software engineering abilities
+- Contribute to innovative products
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=default&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=default&hide_border=true" />
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rahulchangire031-bit&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulchangire031-bit&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchangire031-bit&theme=tokyo-night"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-✨ Coming Soon...
-
-- 🤖 AI Applications
-- 🌐 Full Stack Web Applications
-- ⚛️ React Projects
-- 🖥️ REST APIs
-- 📱 Responsive Web Applications
-- 🐍 Python Projects
-
----
-
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/rahulchangire031-bit">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
@@ -167,14 +202,14 @@
 
 # 💬 Quote
 
-> **"Continuous learning, clean code, and meaningful innovation are the foundation of great software."**
+> "Continuous learning, clean code, and meaningful innovation are the foundation of great software."
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my GitHub profile! ⭐
 </h3>
 
 <p align="center">
-<i>Let's build something amazing together! 🚀</i>
+Let's build something amazing together 🚀
 </p>
