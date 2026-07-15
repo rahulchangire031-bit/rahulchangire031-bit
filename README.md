@@ -1,168 +1,140 @@
-<h1 align="center">Hi 👋, I'm Rahul Changire</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | ⚛️ React Developer | 🐍 Python Developer
-</h3>
+# Rahul Changire
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Exploring+Generative+AI;Always+Learning+New+Technologies"/>
-</p>
+### Full Stack Developer • AI & Machine Learning Engineer • React Developer
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulchangire031-bit&label=Profile+Views&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Artificial+Intelligence+Enthusiast;React+Developer;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rahulchangire031-bit&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About
 
-🎓 B.Tech Computer Engineering Student
+I'm a **Computer Engineering student** passionate about building scalable **Full Stack** applications and intelligent **AI-powered** systems.
 
-🏫 Tatyasaheb Kore Institute of Engineering & Technology, Kolhapur
+Currently exploring
 
-💡 Passionate about Full Stack Development, Artificial Intelligence and Machine Learning.
-
-🌱 Currently learning
-
-- Generative AI
 - Large Language Models (LLMs)
+- Generative AI
 - LangChain
 - RAG
-- Cloud Computing
 - System Design
-
-📍 Kolhapur, Maharashtra, India
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-Machine Learning • Deep Learning • NLP • OpenCV • Hugging Face • LangChain • RAG • Generative AI
+- Cloud Computing
 
 ---
 
-# 💼 Featured Projects
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgresql,docker,git,github,vscode,linux,tensorflow,pytorch"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🎓 Digital Classroom Platform
 
-A modern learning management system built for students and teachers.
+> A modern Learning Management System built for students and teachers.
 
-### ✨ Features
+**Highlights**
 
+- Authentication
 - Student Dashboard
 - Teacher Dashboard
-- Authentication System
 - Course Management
 - Assignment Submission
-- Learning Resources
 
-### 🛠 Tech Stack
+**Stack**
 
-`React.js` • `PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+`React` `PHP` `MySQL` `HTML` `CSS`
 
 ---
 
 ## 📰 AI News Summarizer
 
-An AI-powered application that summarizes lengthy news articles using NLP.
+> AI-powered summarization using Hugging Face Transformers.
 
-### ✨ Features
+**Highlights**
 
-- AI-powered summarization
-- Hugging Face Transformers
-- NLP pipeline
-- Web scraping
-- Real-time news updates
-- Fast and clean interface
+- NLP Pipeline
+- Web Scraping
+- Transformer Models
+- Real-time News
+- Fast Summaries
 
-### 🛠 Tech Stack
+**Stack**
 
-`Python` • `Transformers` • `Hugging Face` • `BeautifulSoup` • `NLP`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchangire031-bit&theme=tokyonight"/>
-
-</p>
+`Python` `Hugging Face` `NLP`
 
 ---
 
-# 🛠 Tools
+## 🎯 AI Face Age Detection
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman"/>
-</p>
+> Predicts age from facial images using Deep Learning and OpenCV.
+
+**Highlights**
+
+- Face Detection
+- Age Prediction
+- OpenCV
+- Deep Learning
+- Clean UI
+
+**Stack**
+
+`Python` `TensorFlow` `OpenCV`
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="left">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahulchangire031-bit&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
 
 <a href="https://github.com/rahulchangire031-bit">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/rahul-changire-645552311/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> **"Building the future with code, intelligence, and continuous learning."**
+### 💡 *"Building intelligent software with clean code and continuous learning."*
 
----
+⭐ Thanks for visiting my profile!
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<h3 align="center">
-Let's build something amazing together 🚀
-</h3>
+</div>
