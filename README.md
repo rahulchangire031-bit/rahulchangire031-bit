@@ -116,53 +116,56 @@
 
 ⚛️ React.js | 🐘 PHP | 🗄️ MySQL | 🌐 HTML5 | 🎨 CSS3 | JavaScript
 
-</div>
-<div align="center">
+## 📰 AI News Summarizer
 
-<table>
-<tr>
-<td width="500">
+An AI-powered application that generates concise summaries from lengthy news articles using Natural Language Processing.
 
-### 📰 AI News Summarizer
+### Features
 
-**An AI-powered news summarization system that generates concise summaries from lengthy news articles using Natural Language Processing (NLP).**
+- AI-powered summarization
+- Hugging Face integration
+- NLP pipeline
+- Web scraping
+- Real-time news collection
+- Clean user interface
 
-- Developed an intelligent system using **Python** to automatically extract important information from news articles.
-- Implemented **NLP techniques** to analyze text, identify key points, and generate meaningful summaries.
-- Integrated **Hugging Face models and AI libraries** to improve text processing and summarization performance.
-- Added **web scraping functionality** to collect and process real-time news content efficiently.
+**Tech Stack**
 
-**Technologies Used:**  
-🐍 Python | 🤗 Hugging Face | 🧠 NLP | 🌐 Web Scraping | Machine Learning | AI Libraries
+Python • Hugging Face • NLP • Machine Learning • Web Scraping
 
 ---
 
 # 🌱 Currently Learning
 
-- **Advanced AI & Generative AI**
-- **Machine Learning Algorithms**
-- **Deep Learning**
-- **LLM Application Development**
-- **Cloud Computing**
-- **System Design**
-- **Advanced Backend Development**
+- Advanced Machine Learning
+- Deep Learning
+- Generative AI
+- LangChain
+- LLM Applications
+- Cloud Computing
+- System Design
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rahul-changire-645552311/">
-<img src="https://img.shields.io/badge/LinkedIn-Rahul%20Changire-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
-<a href="https://github.com/rahulchangire031-bit">
-<img src="https://img.shields.io/badge/GitHub-Rahul%20Changire-black?style=for-the-badge&logo=github"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchangire031-bit&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchangire031-bit&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchangire031-bit&theme=tokyonight"/>
+
 </p>
 
 ---
-# 🤝 Connect With Me
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -176,16 +179,18 @@
 
 </p>
 
-<p align="center">
-<b>Let's connect and build innovative AI-powered solutions together 🚀</b>
-</p>
-
 ---
 
 # 💡 Quote
 
 > **"Building the future with code, intelligence, and continuous learning."**
 
+---
+
 <h3 align="center">
-⭐ Thanks for visiting my profile! Let's build something amazing 🚀
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<h3 align="center">
+Let's build something amazing together 🚀
 </h3>
